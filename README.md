@@ -1,5 +1,5 @@
 # prjTemplates
-
+### forReact es5
 
 空工程模板。<br>
 
@@ -7,5 +7,4 @@
 
 自用。<br>
 
-下一步计划：
-- 利用一些自动化构建工具进行打包等。
+- 本分支用于es5语法下的react开发，模块工具是requirejs。
